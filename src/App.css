@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.user-design{
+  width: 50%;
+  background-color: aquamarine;
+  padding: 15px;
+  margin: 12px auto;
+  border-radius: 8px;
+}
+
+.user-design p, .user-design h3{
+  margin: 0;
+}
